@@ -9,3 +9,7 @@ just study github
 
 
 蓄势待发
+
+# hello-Git
+
+`cout << "Hello World!" << endl`
